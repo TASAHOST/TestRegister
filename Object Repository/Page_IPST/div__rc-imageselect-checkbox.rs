@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__rc-imageselect-checkbox</name>
+   <tag></tag>
+   <elementGuidId>72d39950-407e-4c79-9156-29820693a09b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rc-imageselect-target']/table/tbody/tr[3]/td/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.rc-imageselect-tile.rc-imageselect-tileselected > div.rc-image-tile-target > div.rc-imageselect-checkbox</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>deab18a6-002d-42f8-8a75-c0686bbcdb2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rc-imageselect-checkbox</value>
+      <webElementGuid>101ced12-344f-4b01-9eee-4070146d5c97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rc-imageselect-target&quot;)/table[@class=&quot;rc-imageselect-table-44&quot;]/tbody[1]/tr[3]/td[@class=&quot;rc-imageselect-tile rc-imageselect-tileselected&quot;]/div[@class=&quot;rc-image-tile-target&quot;]/div[@class=&quot;rc-imageselect-checkbox&quot;]</value>
+      <webElementGuid>1a3b770f-af6f-48e2-b422-92d118f97616</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_IPST/iframe_concat(htmlclass, , login-pf, , body_53ae63</value>
+      <webElementGuid>86884d6b-0f97-4cba-b9cd-c02e6acc219f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rc-imageselect-target']/table/tbody/tr[3]/td/div/div[2]</value>
+      <webElementGuid>606bac36-e91b-4209-89d5-9946659899bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td/div/div[2]</value>
+      <webElementGuid>0e44fa62-08b6-4f2d-83d9-cbccacc88af6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
